@@ -1,4 +1,4 @@
-# zoom-erberg
+# zoom-o
 
 In homage to that (once) essential and popular online video call service and the spirit of that Harvard dropout
 
