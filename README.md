@@ -6,7 +6,7 @@ In homage to that (once) essential and popular online video call service and the
 
 ## Rules
 
-1. hungry-spectre will NEVER merge a PR until all members comment on the PR of interest
+1. Have fun doing it
 
 2. Keep to the fork & PR process
 
